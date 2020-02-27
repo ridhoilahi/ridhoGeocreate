@@ -1,0 +1,1806 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "Satuan" : "Satuan",
+    "ID" : "ID",
+    "NO" : "NO",
+    "BANDAR_UDA" : "BANDAR_UDA",
+    "KOTA_LOKAS" : "KOTA_LOKAS",
+    "LINTANG" : "LINTANG",
+    "BUJUR" : "BUJUR",
+    "KELAS" : "KELAS"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "Satuan",
+      "type" : "esriFieldTypeString",
+      "alias" : "Satuan",
+      "length" : 254
+    },
+    {
+      "name" : "ID",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "ID"
+    },
+    {
+      "name" : "NO",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "NO"
+    },
+    {
+      "name" : "BANDAR_UDA",
+      "type" : "esriFieldTypeString",
+      "alias" : "BANDAR_UDA",
+      "length" : 254
+    },
+    {
+      "name" : "KOTA_LOKAS",
+      "type" : "esriFieldTypeString",
+      "alias" : "KOTA_LOKAS",
+      "length" : 254
+    },
+    {
+      "name" : "LINTANG",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "LINTANG"
+    },
+    {
+      "name" : "BUJUR",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "BUJUR"
+    },
+    {
+      "name" : "KELAS",
+      "type" : "esriFieldTypeString",
+      "alias" : "KELAS",
+      "length" : 254
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "Satuan" : " ",
+        "ID" : 165,
+        "NO" : 1,
+        "BANDAR_UDA" : " Frans Kaisiepo",
+        "KOTA_LOKAS" : " Biak",
+        "LINTANG" : -1.1884999999999999,
+        "BUJUR" : 136.10599999999999,
+        "KELAS" : "I"
+      },
+      "geometry" : {
+        "x" : 136.10599999999999,
+        "y" : -1.1884999999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "Satuan" : "Satuan 1",
+        "ID" : 166,
+        "NO" : 2,
+        "BANDAR_UDA" : " Sentani",
+        "KOTA_LOKAS" : " Jayapura",
+        "LINTANG" : -2.5716666670000001,
+        "BUJUR" : 140.51166670000001,
+        "KELAS" : "I"
+      },
+      "geometry" : {
+        "x" : 140.51166670000001,
+        "y" : -2.5716666670000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "Satuan" : "Satuan 1",
+        "ID" : 167,
+        "NO" : 3,
+        "BANDAR_UDA" : " Mopah",
+        "KOTA_LOKAS" : " Merauke",
+        "LINTANG" : -8.5171666669999997,
+        "BUJUR" : 140.4171667,
+        "KELAS" : "I"
+      },
+      "geometry" : {
+        "x" : 140.4171667,
+        "y" : -8.5171666669999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "Satuan" : "Satuan 1",
+        "ID" : 168,
+        "NO" : 5,
+        "BANDAR_UDA" : " Dabra",
+        "KOTA_LOKAS" : " Kab. Mamberamo Raya",
+        "LINTANG" : -3.270333333,
+        "BUJUR" : 138.614,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 138.614,
+        "y" : -3.270333333
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "Satuan" : " ",
+        "ID" : 169,
+        "NO" : 6,
+        "BANDAR_UDA" : " Yuruf",
+        "KOTA_LOKAS" : " Kab. Keerom",
+        "LINTANG" : -3.9333300000000002,
+        "BUJUR" : 140.933333,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 140.933333,
+        "y" : -3.9333300000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "Satuan" : " ",
+        "ID" : 170,
+        "NO" : 7,
+        "BANDAR_UDA" : " Molof",
+        "KOTA_LOKAS" : " Kab. Keerom",
+        "LINTANG" : -3.416833333,
+        "BUJUR" : 140.5553333,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 140.5553333,
+        "y" : -3.416833333
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "Satuan" : "Satuan 1",
+        "ID" : 171,
+        "NO" : 8,
+        "BANDAR_UDA" : " Kamur",
+        "KOTA_LOKAS" : " Kab. Asmat",
+        "LINTANG" : -6.1863333330000003,
+        "BUJUR" : 138.63516670000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 138.63516670000001,
+        "y" : -6.1863333330000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "Satuan" : "Satuan 1",
+        "ID" : 172,
+        "NO" : 9,
+        "BANDAR_UDA" : " Kimam",
+        "KOTA_LOKAS" : " Kab. Merauke",
+        "LINTANG" : -6.4000000000000004,
+        "BUJUR" : 138.84999999999999,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 138.84999999999999,
+        "y" : -6.4000000000000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "Satuan" : " ",
+        "ID" : 173,
+        "NO" : 10,
+        "BANDAR_UDA" : " Elelim",
+        "KOTA_LOKAS" : " Kab. Yalimo",
+        "LINTANG" : -4.7839999999999998,
+        "BUJUR" : 139.3858333,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 139.3858333,
+        "y" : -4.7839999999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "Satuan" : "Satuan 1",
+        "ID" : 174,
+        "NO" : 11,
+        "BANDAR_UDA" : " Bomakia",
+        "KOTA_LOKAS" : " Kab. Boven Digoel",
+        "LINTANG" : -5.9833299999999996,
+        "BUJUR" : 139.86667,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 139.86667,
+        "y" : -5.9833299999999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "Satuan" : "Satuan 1",
+        "ID" : 175,
+        "NO" : 12,
+        "BANDAR_UDA" : " Senggeh",
+        "KOTA_LOKAS" : " Kab. Keerom",
+        "LINTANG" : -3.4336722220000002,
+        "BUJUR" : 140.8167278,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 140.8167278,
+        "y" : -3.4336722220000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "Satuan" : " ",
+        "ID" : 176,
+        "NO" : 13,
+        "BANDAR_UDA" : " Manggelum",
+        "KOTA_LOKAS" : " Kab. Boven Digoel",
+        "LINTANG" : -5.0739999999999998,
+        "BUJUR" : 140.72300000000001,
+        "KELAS" : "SATPEL"
+      },
+      "geometry" : {
+        "x" : 140.72300000000001,
+        "y" : -5.0739999999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "Satuan" : "Satuan 1",
+        "ID" : 177,
+        "NO" : 14,
+        "BANDAR_UDA" : " Wamena",
+        "KOTA_LOKAS" : " Kab. Jayawijaya",
+        "LINTANG" : -4.0975000000000001,
+        "BUJUR" : 138.95150000000001,
+        "KELAS" : "I"
+      },
+      "geometry" : {
+        "x" : 138.95150000000001,
+        "y" : -4.0975000000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "Satuan" : " ",
+        "ID" : 178,
+        "NO" : 15,
+        "BANDAR_UDA" : " Kelila",
+        "KOTA_LOKAS" : " Kab. Mamberamo Raya",
+        "LINTANG" : -3.728166667,
+        "BUJUR" : 138.71083329999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 138.71083329999999,
+        "y" : -3.728166667
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "Satuan" : " ",
+        "ID" : 179,
+        "NO" : 16,
+        "BANDAR_UDA" : " Kiwirok",
+        "KOTA_LOKAS" : " Kab. Pegunungan Bintang",
+        "LINTANG" : -4.7149999999999999,
+        "BUJUR" : 140.73866670000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 140.73866670000001,
+        "y" : -4.7149999999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "Satuan" : " ",
+        "ID" : 180,
+        "NO" : 17,
+        "BANDAR_UDA" : " Bilorai",
+        "KOTA_LOKAS" : " Kab. Intan Jaya",
+        "LINTANG" : -3.7400000000000002,
+        "BUJUR" : 137.0311667,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 137.0311667,
+        "y" : -3.7400000000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "Satuan" : " ",
+        "ID" : 181,
+        "NO" : 18,
+        "BANDAR_UDA" : " Bilai",
+        "KOTA_LOKAS" : " Kab. Intan Jaya",
+        "LINTANG" : -3.748566667,
+        "BUJUR" : 136.86213330000001,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 136.86213330000001,
+        "y" : -3.748566667
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "Satuan" : " ",
+        "ID" : 182,
+        "NO" : 19,
+        "BANDAR_UDA" : " Kebo",
+        "KOTA_LOKAS" : " Kab. Paniai",
+        "LINTANG" : -3.8239999999999998,
+        "BUJUR" : 136.386,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 136.386,
+        "y" : -3.8239999999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "Satuan" : " ",
+        "ID" : 183,
+        "NO" : 20,
+        "BANDAR_UDA" : " Akimuga",
+        "KOTA_LOKAS" : " Kab. Mimika",
+        "LINTANG" : -4.6040000000000001,
+        "BUJUR" : 137.65816670000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 137.65816670000001,
+        "y" : -4.6040000000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "Satuan" : "Satuan 1",
+        "ID" : 184,
+        "NO" : 21,
+        "BANDAR_UDA" : " Enarotali",
+        "KOTA_LOKAS" : " Kab. Paniai",
+        "LINTANG" : -3.9261666669999999,
+        "BUJUR" : 136.56100000000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 136.56100000000001,
+        "y" : -3.9261666669999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "Satuan" : "Satuan 1",
+        "ID" : 185,
+        "NO" : 22,
+        "BANDAR_UDA" : " Mararena",
+        "KOTA_LOKAS" : " Kab. Sarmi",
+        "LINTANG" : -1.874833333,
+        "BUJUR" : 138.755,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 138.755,
+        "y" : -1.874833333
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "Satuan" : "Satuan 1",
+        "ID" : 186,
+        "NO" : 23,
+        "BANDAR_UDA" : " Tanah Merah",
+        "KOTA_LOKAS" : " Kab. Boven Digoel",
+        "LINTANG" : -6.0971666669999998,
+        "BUJUR" : 140.3018333,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 140.3018333,
+        "y" : -6.0971666669999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "Satuan" : "Satuan 1",
+        "ID" : 187,
+        "NO" : 24,
+        "BANDAR_UDA" : " Mulia",
+        "KOTA_LOKAS" : " Kab. Puncak Jaya",
+        "LINTANG" : -3.7026666669999999,
+        "BUJUR" : 137.9578333,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 137.9578333,
+        "y" : -3.7026666669999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "Satuan" : "Satuan 1",
+        "ID" : 188,
+        "NO" : 25,
+        "BANDAR_UDA" : " Oksibil",
+        "KOTA_LOKAS" : " Kab. Pegunungan Bintang",
+        "LINTANG" : -4.9078333330000001,
+        "BUJUR" : 140.62933330000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 140.62933330000001,
+        "y" : -4.9078333330000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "Satuan" : "Satuan 1",
+        "ID" : 189,
+        "NO" : 26,
+        "BANDAR_UDA" : " Moanamani",
+        "KOTA_LOKAS" : " Nabire",
+        "LINTANG" : -4.0069999999999997,
+        "BUJUR" : 136.0373333,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 136.0373333,
+        "y" : -4.0069999999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "Satuan" : "Satuan 1",
+        "ID" : 190,
+        "NO" : 27,
+        "BANDAR_UDA" : " Mindiptana",
+        "KOTA_LOKAS" : " Kab. Boven Digoel",
+        "LINTANG" : -5.8773333330000002,
+        "BUJUR" : 140.7103333,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 140.7103333,
+        "y" : -5.8773333330000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "Satuan" : "Satuan 1",
+        "ID" : 191,
+        "NO" : 28,
+        "BANDAR_UDA" : " Kepi",
+        "KOTA_LOKAS" : " Kab. Mappi",
+        "LINTANG" : -6.5499999999999998,
+        "BUJUR" : 139.31666670000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 139.31666670000001,
+        "y" : -6.5499999999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "Satuan" : "Satuan 1",
+        "ID" : 192,
+        "NO" : 29,
+        "BANDAR_UDA" : " Kokonau",
+        "KOTA_LOKAS" : " Kab. Mimika",
+        "LINTANG" : -4.7115,
+        "BUJUR" : 136.4361667,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 136.4361667,
+        "y" : -4.7115
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "Satuan" : "Satuan 1",
+        "ID" : 193,
+        "NO" : 30,
+        "BANDAR_UDA" : " Bokondini",
+        "KOTA_LOKAS" : " Kab. Jayawijaya",
+        "LINTANG" : -3.6861666670000002,
+        "BUJUR" : 138.6766667,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 138.6766667,
+        "y" : -3.6861666670000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "Satuan" : " ",
+        "ID" : 194,
+        "NO" : 31,
+        "BANDAR_UDA" : " Okaba",
+        "KOTA_LOKAS" : " Kab. Merauke",
+        "LINTANG" : -8.0999999999999996,
+        "BUJUR" : 139.69999999999999,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 139.69999999999999,
+        "y" : -8.0999999999999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "Satuan" : "Satuan 1",
+        "ID" : 195,
+        "NO" : 32,
+        "BANDAR_UDA" : " Numfor",
+        "KOTA_LOKAS" : " Kab. Biak Numfor",
+        "LINTANG" : -0.93566666700000001,
+        "BUJUR" : 134.8725,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 134.8725,
+        "y" : -0.93566666700000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "Satuan" : "Satuan 1",
+        "ID" : 196,
+        "NO" : 33,
+        "BANDAR_UDA" : " Illaga",
+        "KOTA_LOKAS" : " Kab. Puncak",
+        "LINTANG" : -3.9768333330000001,
+        "BUJUR" : 137.62216670000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 137.62216670000001,
+        "y" : -3.9768333330000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "Satuan" : "Satuan 1",
+        "ID" : 197,
+        "NO" : 34,
+        "BANDAR_UDA" : " Illu",
+        "KOTA_LOKAS" : " Kab. Puncak Jaya",
+        "LINTANG" : -3.6761666669999999,
+        "BUJUR" : 138.28100000000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 138.28100000000001,
+        "y" : -3.6761666669999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "Satuan" : "Satuan 1",
+        "ID" : 198,
+        "NO" : 35,
+        "BANDAR_UDA" : " Tiom",
+        "KOTA_LOKAS" : " Kab. Lanni Jaya",
+        "LINTANG" : -4.0056666669999998,
+        "BUJUR" : 138.45400000000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 138.45400000000001,
+        "y" : -4.0056666669999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "Satuan" : "Satuan 1",
+        "ID" : 199,
+        "NO" : 36,
+        "BANDAR_UDA" : " Ewer",
+        "KOTA_LOKAS" : " Kab. Asmat",
+        "LINTANG" : -5.5012850000000002,
+        "BUJUR" : 138.08389500000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 138.08389500000001,
+        "y" : -5.5012850000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "Satuan" : "Satuan 1",
+        "ID" : 200,
+        "NO" : 37,
+        "BANDAR_UDA" : " Batom",
+        "KOTA_LOKAS" : " Kab. Pegunungan Bintang",
+        "LINTANG" : -4.4428333330000003,
+        "BUJUR" : 140.88249999999999,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 140.88249999999999,
+        "y" : -4.4428333330000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "Satuan" : "Satuan 1",
+        "ID" : 201,
+        "NO" : 38,
+        "BANDAR_UDA" : " Bade",
+        "KOTA_LOKAS" : " Kab. Mappi",
+        "LINTANG" : -7.1666670000000003,
+        "BUJUR" : 139.56666999999999,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 139.56666999999999,
+        "y" : -7.1666670000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "Satuan" : "Satuan 1",
+        "ID" : 202,
+        "NO" : 40,
+        "BANDAR_UDA" : " Karubaga",
+        "KOTA_LOKAS" : " Kab. Tolikara",
+        "LINTANG" : -3.6863333329999999,
+        "BUJUR" : 138.47916670000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 138.47916670000001,
+        "y" : -3.6863333329999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "Satuan" : "Satuan 1",
+        "ID" : 203,
+        "NO" : 41,
+        "BANDAR_UDA" : " Obano",
+        "KOTA_LOKAS" : " Kab. Paniai",
+        "LINTANG" : -3.9106666670000001,
+        "BUJUR" : 136.2306667,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 136.2306667,
+        "y" : -3.9106666670000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "Satuan" : "Satuan 1",
+        "ID" : 204,
+        "NO" : 42,
+        "BANDAR_UDA" : " Senggo",
+        "KOTA_LOKAS" : " Kab. Mappi",
+        "LINTANG" : -5.6906666670000003,
+        "BUJUR" : 139.3498333,
+        "KELAS" : "SATPEL"
+      },
+      "geometry" : {
+        "x" : 139.3498333,
+        "y" : -5.6906666670000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "Satuan" : "Satuan 1",
+        "ID" : 205,
+        "NO" : 43,
+        "BANDAR_UDA" : " Mozes Kilangin",
+        "KOTA_LOKAS" : " Timika",
+        "LINTANG" : -4.5256666670000003,
+        "BUJUR" : 136.88633329999999,
+        "KELAS" : "I"
+      },
+      "geometry" : {
+        "x" : 136.88633329999999,
+        "y" : -4.5256666670000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "Satuan" : " ",
+        "ID" : 206,
+        "NO" : 44,
+        "BANDAR_UDA" : " Taive II",
+        "KOTA_LOKAS" : " Kab. Tolikara",
+        "LINTANG" : -3.2933330000000001,
+        "BUJUR" : 138.46683300000001,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 138.46683300000001,
+        "y" : -3.2933330000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "Satuan" : "Satuan 1",
+        "ID" : 207,
+        "NO" : 45,
+        "BANDAR_UDA" : " Kamanap",
+        "KOTA_LOKAS" : " Serui Kab. Kep. Yapen",
+        "LINTANG" : -1.7876000000000001,
+        "BUJUR" : 136.14230000000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 136.14230000000001,
+        "y" : -1.7876000000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "Satuan" : "Satuan 1",
+        "ID" : 208,
+        "NO" : 47,
+        "BANDAR_UDA" : " Nabire Douw Aturure",
+        "KOTA_LOKAS" : " Kab. Nabire",
+        "LINTANG" : -3.3676666669999999,
+        "BUJUR" : 135.4963333,
+        "KELAS" : "II"
+      },
+      "geometry" : {
+        "x" : 135.4963333,
+        "y" : -3.3676666669999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "Satuan" : "Satuan 1",
+        "ID" : 209,
+        "NO" : 48,
+        "BANDAR_UDA" : " Waghete Baru",
+        "KOTA_LOKAS" : " Kab. Deiyai",
+        "LINTANG" : -4.0673380000000003,
+        "BUJUR" : 136.27361300000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 136.27361300000001,
+        "y" : -4.0673380000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "Satuan" : " ",
+        "ID" : 210,
+        "NO" : 49,
+        "BANDAR_UDA" : " Sinak",
+        "KOTA_LOKAS" : " Kab. Puncak Jaya",
+        "LINTANG" : -3.8221666669999999,
+        "BUJUR" : 137.8411667,
+        "KELAS" : "SATPEL"
+      },
+      "geometry" : {
+        "x" : 137.8411667,
+        "y" : -3.8221666669999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "Satuan" : " ",
+        "ID" : 211,
+        "NO" : 50,
+        "BANDAR_UDA" : " Aboyaga",
+        "KOTA_LOKAS" : " Kab. Nabire",
+        "LINTANG" : -2.7965,
+        "BUJUR" : 136.0275,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 136.0275,
+        "y" : -2.7965
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "Satuan" : " ",
+        "ID" : 212,
+        "NO" : 51,
+        "BANDAR_UDA" : " Aboy",
+        "KOTA_LOKAS" : " Kab. Pegunungan Bintang",
+        "LINTANG" : -4.2951666670000002,
+        "BUJUR" : 140.6418333,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 140.6418333,
+        "y" : -4.2951666670000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "Satuan" : " ",
+        "ID" : 213,
+        "NO" : 52,
+        "BANDAR_UDA" : " Yaniruma",
+        "KOTA_LOKAS" : " Kab. Boven Digoel",
+        "LINTANG" : -5.4203333330000003,
+        "BUJUR" : 139.81883329999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 139.81883329999999,
+        "y" : -5.4203333330000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "Satuan" : " ",
+        "ID" : 214,
+        "NO" : 53,
+        "BANDAR_UDA" : " Nop Goliat Dekai",
+        "KOTA_LOKAS" : " Kab. Yahukimo",
+        "LINTANG" : -4.8558333329999996,
+        "BUJUR" : 139.48216669999999,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 139.48216669999999,
+        "y" : -4.8558333329999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "Satuan" : " ",
+        "ID" : 215,
+        "NO" : 54,
+        "BANDAR_UDA" : " Kobakma",
+        "KOTA_LOKAS" : " Kab. Membramo Tengah",
+        "LINTANG" : -3.6663333329999999,
+        "BUJUR" : 139.059,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 139.059,
+        "y" : -3.6663333329999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "Satuan" : " ",
+        "ID" : 216,
+        "NO" : 56,
+        "BANDAR_UDA" : " Apalapsili",
+        "KOTA_LOKAS" : " Kab. Yalimo",
+        "LINTANG" : -3.8824999999999998,
+        "BUJUR" : 139.31083330000001,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 139.31083330000001,
+        "y" : -3.8824999999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "Satuan" : " ",
+        "ID" : 217,
+        "NO" : 57,
+        "BANDAR_UDA" : " Kenyam",
+        "KOTA_LOKAS" : " Kab. Nduga",
+        "LINTANG" : -4.601,
+        "BUJUR" : 138.3831667,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 138.3831667,
+        "y" : -4.601
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "Satuan" : " ",
+        "ID" : 218,
+        "NO" : 58,
+        "BANDAR_UDA" : " Mapnduma",
+        "KOTA_LOKAS" : " Kab. Nduga",
+        "LINTANG" : -4.3090000000000002,
+        "BUJUR" : 138.245,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 138.245,
+        "y" : -4.3090000000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "Satuan" : " ",
+        "ID" : 219,
+        "NO" : 59,
+        "BANDAR_UDA" : " Mugi",
+        "KOTA_LOKAS" : " Kab. Nduga",
+        "LINTANG" : -4.2408890000000001,
+        "BUJUR" : 138.32994400000001,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 138.32994400000001,
+        "y" : -4.2408890000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "Satuan" : " ",
+        "ID" : 220,
+        "NO" : 60,
+        "BANDAR_UDA" : " Paro",
+        "KOTA_LOKAS" : " Kab. Nduga",
+        "LINTANG" : -4.3902780000000003,
+        "BUJUR" : 138.235806,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 138.235806,
+        "y" : -4.3902780000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "Satuan" : " ",
+        "ID" : 221,
+        "NO" : 61,
+        "BANDAR_UDA" : " Fawi",
+        "KOTA_LOKAS" : " Kab. Puncak Jaya",
+        "LINTANG" : -3.2309999999999999,
+        "BUJUR" : 137.726,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 137.726,
+        "y" : -3.2309999999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "Satuan" : " ",
+        "ID" : 222,
+        "NO" : 62,
+        "BANDAR_UDA" : " Borome",
+        "KOTA_LOKAS" : " Borome",
+        "LINTANG" : -4.3956666670000004,
+        "BUJUR" : 140.435,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 140.435,
+        "y" : -4.3956666670000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "Satuan" : " ",
+        "ID" : 223,
+        "NO" : 63,
+        "BANDAR_UDA" : " Beoga",
+        "KOTA_LOKAS" : " Kab. Intan Jaya",
+        "LINTANG" : -3.8206199999999999,
+        "BUJUR" : 137.33099999999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 137.33099999999999,
+        "y" : -3.8206199999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "Satuan" : " ",
+        "ID" : 224,
+        "NO" : 64,
+        "BANDAR_UDA" : " Jila",
+        "KOTA_LOKAS" : " Kab. Mimika",
+        "LINTANG" : -4.2468333329999997,
+        "BUJUR" : 137.59516669999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 137.59516669999999,
+        "y" : -4.2468333329999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "Satuan" : " ",
+        "ID" : 225,
+        "NO" : 65,
+        "BANDAR_UDA" : " Jita",
+        "KOTA_LOKAS" : " Kab. Mimika",
+        "LINTANG" : -4.8574999999999999,
+        "BUJUR" : 137.70099999999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 137.70099999999999,
+        "y" : -4.8574999999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "Satuan" : " ",
+        "ID" : 226,
+        "NO" : 66,
+        "BANDAR_UDA" : " Potowai",
+        "KOTA_LOKAS" : " Kab. Mimika",
+        "LINTANG" : -4.2836109999999996,
+        "BUJUR" : 134.97416699999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 134.97416699999999,
+        "y" : -4.2836109999999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "Satuan" : " ",
+        "ID" : 227,
+        "NO" : 67,
+        "BANDAR_UDA" : " Tsinga",
+        "KOTA_LOKAS" : " Kab. Mimika",
+        "LINTANG" : -4.2032759999999998,
+        "BUJUR" : 137.229533,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 137.229533,
+        "y" : -4.2032759999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "Satuan" : " ",
+        "ID" : 228,
+        "NO" : 69,
+        "BANDAR_UDA" : " Alama",
+        "KOTA_LOKAS" : " Kab. Pegunungan Bintang",
+        "LINTANG" : -4.2646666670000002,
+        "BUJUR" : 137.89116670000001,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 137.89116670000001,
+        "y" : -4.2646666670000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "Satuan" : " ",
+        "ID" : 229,
+        "NO" : 70,
+        "BANDAR_UDA" : " Wangbe",
+        "KOTA_LOKAS" : " Kab. Puncak",
+        "LINTANG" : -3.7362000000000002,
+        "BUJUR" : 137.14089999999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 137.14089999999999,
+        "y" : -3.7362000000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "Satuan" : " ",
+        "ID" : 230,
+        "NO" : 71,
+        "BANDAR_UDA" : " Towehitam",
+        "KOTA_LOKAS" : " Kab. Keerom",
+        "LINTANG" : -3.930870278,
+        "BUJUR" : 140.77194829999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 140.77194829999999,
+        "y" : -3.930870278
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "Satuan" : " ",
+        "ID" : 231,
+        "NO" : 72,
+        "BANDAR_UDA" : " Anggruk",
+        "KOTA_LOKAS" : " Kab. Yahukimo",
+        "LINTANG" : -4.2005277779999997,
+        "BUJUR" : 139.4327639,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 139.4327639,
+        "y" : -4.2005277779999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "Satuan" : " ",
+        "ID" : 232,
+        "NO" : 73,
+        "BANDAR_UDA" : " Holuwun",
+        "KOTA_LOKAS" : " Kab. Yahukimo",
+        "LINTANG" : -4.6651999999999996,
+        "BUJUR" : 139.41759999999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 139.41759999999999,
+        "y" : -4.6651999999999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "Satuan" : " ",
+        "ID" : 233,
+        "NO" : 74,
+        "BANDAR_UDA" : " Ninia",
+        "KOTA_LOKAS" : " Kab. Yahukimo",
+        "LINTANG" : -4.3636583330000001,
+        "BUJUR" : 139.30181110000001,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 139.30181110000001,
+        "y" : -4.3636583330000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "Satuan" : " ",
+        "ID" : 234,
+        "NO" : 75,
+        "BANDAR_UDA" : " Pasema",
+        "KOTA_LOKAS" : " Kab. Yahukimo",
+        "LINTANG" : -2.9157638889999999,
+        "BUJUR" : 138.587875,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 138.587875,
+        "y" : -2.9157638889999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "Satuan" : " ",
+        "ID" : 235,
+        "NO" : 76,
+        "BANDAR_UDA" : " Silimo",
+        "KOTA_LOKAS" : " Kab. Yahukimo",
+        "LINTANG" : -4.4666861109999996,
+        "BUJUR" : 138.94190829999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 138.94190829999999,
+        "y" : -4.4666861109999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "Satuan" : " ",
+        "ID" : 236,
+        "NO" : 77,
+        "BANDAR_UDA" : " Sobaham",
+        "KOTA_LOKAS" : " Kab. Yahukimo",
+        "LINTANG" : -4.3129166669999996,
+        "BUJUR" : 139.32875000000001,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 139.32875000000001,
+        "y" : -4.3129166669999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "Satuan" : " ",
+        "ID" : 237,
+        "NO" : 78,
+        "BANDAR_UDA" : " Suru-Suru",
+        "KOTA_LOKAS" : " Kab. Yahukimo",
+        "LINTANG" : -4.7225999999999999,
+        "BUJUR" : 138.9845,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 138.9845,
+        "y" : -4.7225999999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "Satuan" : " ",
+        "ID" : 238,
+        "NO" : 79,
+        "BANDAR_UDA" : " Luban",
+        "KOTA_LOKAS" : " Kab. Pegunungan Bintang",
+        "LINTANG" : -4.2172222220000002,
+        "BUJUR" : 140.56173609999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 140.56173609999999,
+        "y" : -4.2172222220000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "Satuan" : " ",
+        "ID" : 239,
+        "NO" : 80,
+        "BANDAR_UDA" : " Okbab",
+        "KOTA_LOKAS" : " Kab. Pegunungan Bintang",
+        "LINTANG" : -4.5983999999999998,
+        "BUJUR" : 140.47029169999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 140.47029169999999,
+        "y" : -4.5983999999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "Satuan" : " ",
+        "ID" : 240,
+        "NO" : 81,
+        "BANDAR_UDA" : " Oklip",
+        "KOTA_LOKAS" : " Kab. Pegunungan Bintang",
+        "LINTANG" : -4.7578138890000004,
+        "BUJUR" : 140.47029169999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 140.47029169999999,
+        "y" : -4.7578138890000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "Satuan" : " ",
+        "ID" : 241,
+        "NO" : 82,
+        "BANDAR_UDA" : " Okyop",
+        "KOTA_LOKAS" : " Kab. Pegunungan Bintang",
+        "LINTANG" : -4.7432805560000002,
+        "BUJUR" : 140.8484972,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 140.8484972,
+        "y" : -4.7432805560000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "Satuan" : " ",
+        "ID" : 242,
+        "NO" : 83,
+        "BANDAR_UDA" : " Wanggemalo",
+        "KOTA_LOKAS" : " Kab. Boven Digoel",
+        "LINTANG" : -5.4976805559999997,
+        "BUJUR" : 139.97854169999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 139.97854169999999,
+        "y" : -5.4976805559999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "Satuan" : " ",
+        "ID" : 243,
+        "NO" : 84,
+        "BANDAR_UDA" : " Duma",
+        "KOTA_LOKAS" : " Kab. Paniai",
+        "LINTANG" : -4.1213972219999997,
+        "BUJUR" : 136.70538329999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 136.70538329999999,
+        "y" : -4.1213972219999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "Satuan" : " ",
+        "ID" : 244,
+        "NO" : 85,
+        "BANDAR_UDA" : " Kapiraya",
+        "KOTA_LOKAS" : " Kab. Deiyai",
+        "LINTANG" : -4.4130555559999998,
+        "BUJUR" : 135.99861110000001,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 135.99861110000001,
+        "y" : -4.4130555559999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "Satuan" : " ",
+        "ID" : 245,
+        "NO" : 86,
+        "BANDAR_UDA" : " Kilmit",
+        "KOTA_LOKAS" : " Kab. Nduga",
+        "LINTANG" : -4.3094444440000004,
+        "BUJUR" : 138.12166669999999,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 138.12166669999999,
+        "y" : -4.3094444440000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "Satuan" : " ",
+        "ID" : 246,
+        "NO" : 87,
+        "BANDAR_UDA" : " Mamit",
+        "KOTA_LOKAS" : " Kab. Tolikara",
+        "LINTANG" : -3.5890777780000001,
+        "BUJUR" : 138.39711940000001,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 138.39711940000001,
+        "y" : -3.5890777780000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "Satuan" : " ",
+        "ID" : 247,
+        "NO" : 88,
+        "BANDAR_UDA" : " Wanam",
+        "KOTA_LOKAS" : " Kab. Merauke",
+        "LINTANG" : -7.5407138890000001,
+        "BUJUR" : 139.11099720000001,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 139.11099720000001,
+        "y" : -7.5407138890000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "Satuan" : " ",
+        "ID" : 248,
+        "NO" : 89,
+        "BANDAR_UDA" : " Iwur",
+        "KOTA_LOKAS" : " Kab. Pegunungan Bintang",
+        "LINTANG" : -5.1417000000000002,
+        "BUJUR" : 140.71440000000001,
+        "KELAS" : "N/A"
+      },
+      "geometry" : {
+        "x" : 140.71440000000001,
+        "y" : -5.1417000000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "Satuan" : " ",
+        "ID" : 249,
+        "NO" : 1,
+        "BANDAR_UDA" : " Rendani",
+        "KOTA_LOKAS" : " Manokwari",
+        "LINTANG" : -0.88716666700000002,
+        "BUJUR" : 134.0516667,
+        "KELAS" : "II"
+      },
+      "geometry" : {
+        "x" : 134.0516667,
+        "y" : -0.88716666700000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "Satuan" : " ",
+        "ID" : 250,
+        "NO" : 2,
+        "BANDAR_UDA" : " Domine Eduard Osok",
+        "KOTA_LOKAS" : " Sorong",
+        "LINTANG" : -1.2,
+        "BUJUR" : 131.683333,
+        "KELAS" : "I"
+      },
+      "geometry" : {
+        "x" : 131.683333,
+        "y" : -1.2
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "Satuan" : " ",
+        "ID" : 251,
+        "NO" : 3,
+        "BANDAR_UDA" : " Torea",
+        "KOTA_LOKAS" : " Fak-fak",
+        "LINTANG" : -2.9211666670000001,
+        "BUJUR" : 132.2631667,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 132.2631667,
+        "y" : -2.9211666670000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "Satuan" : " ",
+        "ID" : 252,
+        "NO" : 4,
+        "BANDAR_UDA" : " Bintuni",
+        "KOTA_LOKAS" : " Kab. Teluk Bintuni",
+        "LINTANG" : -2.1036666670000002,
+        "BUJUR" : 133.51733329999999,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 133.51733329999999,
+        "y" : -2.1036666670000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "Satuan" : " ",
+        "ID" : 253,
+        "NO" : 5,
+        "BANDAR_UDA" : " Babo",
+        "KOTA_LOKAS" : " Kab. Teluk Bintuni",
+        "LINTANG" : -2.5368333330000001,
+        "BUJUR" : 133.43683329999999,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 133.43683329999999,
+        "y" : -2.5368333330000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 89,
+        "Satuan" : " ",
+        "ID" : 254,
+        "NO" : 6,
+        "BANDAR_UDA" : " Utarom",
+        "KOTA_LOKAS" : " Kab. Kaimana",
+        "LINTANG" : -3.641666667,
+        "BUJUR" : 133.7016667,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 133.7016667,
+        "y" : -3.641666667
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 90,
+        "Satuan" : " ",
+        "ID" : 255,
+        "NO" : 7,
+        "BANDAR_UDA" : " Wasior",
+        "KOTA_LOKAS" : " Kab. Teluk Wondama",
+        "LINTANG" : -2.7204999999999999,
+        "BUJUR" : 134.50583330000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 134.50583330000001,
+        "y" : -2.7204999999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 91,
+        "Satuan" : " ",
+        "ID" : 256,
+        "NO" : 8,
+        "BANDAR_UDA" : " Inanwatan",
+        "KOTA_LOKAS" : " Kab. Sorong Selatan",
+        "LINTANG" : -2.127166667,
+        "BUJUR" : 132.1613333,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 132.1613333,
+        "y" : -2.127166667
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 92,
+        "Satuan" : " ",
+        "ID" : 257,
+        "NO" : 9,
+        "BANDAR_UDA" : " Teminabuan",
+        "KOTA_LOKAS" : " Kab. Sorong Selatan",
+        "LINTANG" : -1.447333333,
+        "BUJUR" : 132.02250000000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 132.02250000000001,
+        "y" : -1.447333333
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 93,
+        "Satuan" : " ",
+        "ID" : 258,
+        "NO" : 10,
+        "BANDAR_UDA" : " Ayawasi",
+        "KOTA_LOKAS" : " Kab. Sorong Selatan",
+        "LINTANG" : -1.2,
+        "BUJUR" : 132.5,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 132.5,
+        "y" : -1.2
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 94,
+        "Satuan" : " ",
+        "ID" : 259,
+        "NO" : 11,
+        "BANDAR_UDA" : " Ijahabra",
+        "KOTA_LOKAS" : " Kab. Manokwari",
+        "LINTANG" : -1.5833333329999999,
+        "BUJUR" : 133.33333329999999,
+        "KELAS" : "PEMDA"
+      },
+      "geometry" : {
+        "x" : 133.33333329999999,
+        "y" : -1.5833333329999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 95,
+        "Satuan" : " ",
+        "ID" : 260,
+        "NO" : 12,
+        "BANDAR_UDA" : " Merdey",
+        "KOTA_LOKAS" : " Kab. Manokwari",
+        "LINTANG" : -1.591,
+        "BUJUR" : 133.29633329999999,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 133.29633329999999,
+        "y" : -1.591
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 96,
+        "Satuan" : " ",
+        "ID" : 261,
+        "NO" : 13,
+        "BANDAR_UDA" : " Anggi",
+        "KOTA_LOKAS" : " Kab. Manokwari",
+        "LINTANG" : -1.3866666670000001,
+        "BUJUR" : 133.8738333,
+        "KELAS" : "PEMDA"
+      },
+      "geometry" : {
+        "x" : 133.8738333,
+        "y" : -1.3866666670000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 97,
+        "Satuan" : " ",
+        "ID" : 262,
+        "NO" : 14,
+        "BANDAR_UDA" : " Kambuaya",
+        "KOTA_LOKAS" : " Kab. Manokwari",
+        "LINTANG" : -1.318666667,
+        "BUJUR" : 132.28399999999999,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 132.28399999999999,
+        "y" : -1.318666667
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 98,
+        "Satuan" : " ",
+        "ID" : 263,
+        "NO" : 15,
+        "BANDAR_UDA" : " Werur",
+        "KOTA_LOKAS" : " Kab. Manokwari",
+        "LINTANG" : -0.42066666699999999,
+        "BUJUR" : 132.1834667,
+        "KELAS" : "SATPEL"
+      },
+      "geometry" : {
+        "x" : 132.1834667,
+        "y" : -0.42066666699999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 99,
+        "Satuan" : " ",
+        "ID" : 264,
+        "NO" : 16,
+        "BANDAR_UDA" : " Kebar",
+        "KOTA_LOKAS" : " Kab. Manokwari",
+        "LINTANG" : -0.81033333299999999,
+        "BUJUR" : 133.0541667,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 133.0541667,
+        "y" : -0.81033333299999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 100,
+        "Satuan" : " ",
+        "ID" : 265,
+        "NO" : 17,
+        "BANDAR_UDA" : " Ransiki",
+        "KOTA_LOKAS" : " Kab. Manokwari",
+        "LINTANG" : -1.4967722219999999,
+        "BUJUR" : 134.17494719999999,
+        "KELAS" : "SAKER"
+      },
+      "geometry" : {
+        "x" : 134.17494719999999,
+        "y" : -1.4967722219999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 101,
+        "Satuan" : " ",
+        "ID" : 266,
+        "NO" : 18,
+        "BANDAR_UDA" : " Marinda-Waisai",
+        "KOTA_LOKAS" : " Kab. Raja Empat",
+        "LINTANG" : -0.25165799999999999,
+        "BUJUR" : 130.38739200000001,
+        "KELAS" : "III"
+      },
+      "geometry" : {
+        "x" : 130.38739200000001,
+        "y" : -0.25165799999999999
+      }
+    }
+  ]
+}
